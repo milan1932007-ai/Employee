@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "Professional, responsive web-based Employee Management System with role-based access control, employee records, departments, attendance, salaries, leaves, performance tracking, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
